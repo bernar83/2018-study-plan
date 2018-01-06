@@ -17,8 +17,9 @@ Courses Completed: 0
 Total Points earned: 100
 
 | Date Finished | Activity                  | Points | Links/Description                           |
-| 01-05-2018    | project                   | 100    | [Tower of Hanoi Solver](https://github.com/bernar83/TowersOfHanoi) |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
+| 01-05-2018    | project                   | 100    | [Tower of Hanoi Solver](https://github.com/bernar83/TowersOfHanoi) |
+|               |                           |        |                                             |
 
 
 ## Computer Science and Web Development - comprehensive (Jumped around initially, but will go back in order)
