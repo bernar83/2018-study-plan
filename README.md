@@ -14,7 +14,7 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 
 -Current Course: How to Code: Simple Data  
 -Currect Book: Setting Up ES6  
--Current Project: online resume template  
+-Current Project: random quote generator  
 -Courses Completed: 0  
 Total Points earned: 100
 
