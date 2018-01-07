@@ -13,6 +13,8 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 ## Progress
 
 Current Course: How to Code: Simple Data   
+Currect Book: Setting Up ES6
+Current Project: online resume template
 Courses Completed: 0  
 Total Points earned: 100
 
@@ -26,7 +28,7 @@ Total Points earned: 100
 
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
-* [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+* [ ] Book: [Setting Up ES6Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Course: [Getting Sassy with Sass](http://www.sassshop.com/#/)
 * [X] Project: Build an online Towers of Hanoi solver 
