@@ -3,8 +3,7 @@
 ## 2018
 
 Welcome to my goals of 2018. My primary goal is to become a software engineer. Whether it happens this year or not, I want to make it a 
-point to be a better engineer than I was the day before. I'm going to continue the [CS-WD guide](https://github.com/P1xt/p1xt
--guides/blob/master/cs-wd.md) from last year. Besides the guide I plan to always work on one side project at a time.
+point to be a better engineer than I was the day before. I'm going to continue the [CS-WD guide](https://github.com/P1xt/p1xt-guides/blob/master/cs-wd.md) from last year. Besides the guide I plan to always work on one side project at a time.
 
 Besides my primary goal I plan to continue building strength in powerlifting, move to another state, get a job in that state, 
 get the MTA software fundamentals certificate, start and think about finishing the BS software development degree from WGU by the end 
