@@ -12,10 +12,10 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 
 ## Progress
 
-Current Course: How to Code: Simple Data   
-Currect Book: Setting Up ES6
-Current Project: online resume template
-Courses Completed: 0  
+-Current Course: How to Code: Simple Data   
+-Currect Book: Setting Up ES6
+-Current Project: online resume template
+-Courses Completed: 0  
 Total Points earned: 100
 
 | Date Finished | Activity                  | Points | Links/Description                           |
