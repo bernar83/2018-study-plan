@@ -13,9 +13,9 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 
 -Current Course: How to Code: Simple Data  
 -Currect Book: Setting Up ES6  
--Current Project: random quote generator  
+-Current Project: Time Sheet Application (large project)
 -Courses Completed: 1  
-Total Points earned: 680
+Total Points earned: 840
 
 | Date Finished | Activity                  | Points | Links/Description                           |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -29,6 +29,13 @@ Total Points earned: 680
 | 01-16-2018    | foundation                | 10     | Powerlifting training session               |
 | 01-18-2018    | foundation                | 10     | Powerlifting training session               |
 | 01-18-2018    | foundation                | 500    | [Microsoft MTA: Software Development Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=40361) |
+| 01-30-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-01-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-03-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-06-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-08-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-10-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-12-2018    | project                   | 100    | Random Quote Generator                      | 
 |               |                           |        |                                             |
 
 
