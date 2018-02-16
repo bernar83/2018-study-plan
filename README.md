@@ -36,6 +36,7 @@ Total Points earned: 840
 | 02-08-2018    | foundation                | 10     | Powerlifting training session               |
 | 02-10-2018    | foundation                | 10     | Powerlifting training session               |
 | 02-12-2018    | project                   | 100    | [Random Quote Generator](https://github.com/bernar83/quote-generator) | 
+| 02-14-2018    | foundation                | 100    | [Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial) |
 |               |                           |        |                                             |
 
 
