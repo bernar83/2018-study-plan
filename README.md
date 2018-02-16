@@ -15,7 +15,7 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 -Currect Book: Setting Up ES6  
 -Current Project: Time Sheet Application (large project)
 -Courses Completed: 1  
-Total Points earned: 840
+Total Points earned: 950
 
 | Date Finished | Activity                  | Points | Links/Description                           |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -37,6 +37,7 @@ Total Points earned: 840
 | 02-10-2018    | foundation                | 10     | Powerlifting training session               |
 | 02-12-2018    | project                   | 100    | [Random Quote Generator](https://github.com/bernar83/quote-generator) | 
 | 02-14-2018    | foundation                | 100    | [Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial) |
+| 02-15-2018    | foundation                | 10     | Powerlifting training session               |
 |               |                           |        |                                             |
 
 
