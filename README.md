@@ -11,11 +11,10 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 
 ## Progress
 
--Current Course: How to Code: Simple Data  
--Currect Book: Setting Up ES6  
--Current Project: Time Sheet Application (large project)
--Courses Completed: 1  
-Total Points earned: 950
+-Current: Getting Sassy with Sass
+-Current Project: Clone template (basic)
+-Courses Completed: 2  
+Total Points earned: 1760
 
 | Date Finished | Activity                  | Points | Links/Description                           |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -38,18 +37,30 @@ Total Points earned: 950
 | 02-12-2018    | project                   | 100    | [Random Quote Generator](https://github.com/bernar83/quote-generator) | 
 | 02-14-2018    | foundation                | 100    | [Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial) |
 | 02-15-2018    | foundation                | 10     | Powerlifting training session               |
-|               |                           |        |                                             |
+| 02-17-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-21-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-23-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-24-2018    | foundation                | 10     | Powerlifting training session               |
+| 02-28-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-02-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-03-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-07-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-09-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-10-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-15-2018    | foundation                | 10     | Powerlifting training session               |
+| 03-15-2018    | foundation                | 500    | [How to Code: Simple Data](https://github.com/bernar83/racket-space-invaders)  |
+| 03-15-2018    | project                   | 200    | Space Invaders                              |
 
 
-## Computer Science and Web Development - comprehensive (Jumped around initially, but will go back in order)
+## Computer Science and Web Development - comprehensive (Will jump around a little)
 
-* [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
+* [ ] Project: Clone a template
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Book: [Setting Up ES6Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Course: [Getting Sassy with Sass](http://www.sassshop.com/#/)
 * [X] Project: Build an online Towers of Hanoi solver 
-* [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+* [X] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
