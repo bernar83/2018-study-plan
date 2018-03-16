@@ -12,7 +12,7 @@ of this year, and try to clean up my diet (maybe?? AYCE Sushi FTW).
 ## Progress
 
 -Current: Getting Sassy with Sass
--Current Project: Clone template (basic)
+-Current Project: Landing Page for Time Sheet App
 -Courses Completed: 2  
 Total Points earned: 1760
 
@@ -54,7 +54,7 @@ Total Points earned: 1760
 
 ## Computer Science and Web Development - comprehensive (Will jump around a little)
 
-* [ ] Project: Clone a template
+* [ ] Project: Landing Page
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Book: [Setting Up ES6Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
