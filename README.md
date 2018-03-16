@@ -48,8 +48,8 @@ Total Points earned: 1760
 | 03-09-2018    | foundation                | 10     | Powerlifting training session               |
 | 03-10-2018    | foundation                | 10     | Powerlifting training session               |
 | 03-15-2018    | foundation                | 10     | Powerlifting training session               |
-| 03-15-2018    | foundation                | 500    | [How to Code: Simple Data](https://github.com/bernar83/racket-space-invaders)  |
-| 03-15-2018    | project                   | 200    | Space Invaders                              |
+| 03-15-2018    | foundation                | 500    | How to Code: Simple Data                    |
+| 03-15-2018    | project                   | 200    | [Space Invaders](https://github.com/bernar83/racket-space-invaders)  |
 
 
 ## Computer Science and Web Development - comprehensive (Will jump around a little)
